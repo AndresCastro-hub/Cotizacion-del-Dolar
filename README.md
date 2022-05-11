@@ -7,3 +7,4 @@ Es un pequeño proyecto que realize para practicar el consumo de una api y pinta
 ## Deploy : https://dolarcotizacion.netlify.app/
 
 
+![Image text](https://github.com/AndresCastro-hub/Cotizacion-del-Dolar/blob/main/src/dolar.PNG)
