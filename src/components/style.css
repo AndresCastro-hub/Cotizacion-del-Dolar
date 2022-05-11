@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f7ede2;
+}
+
+.menu{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    height: 55px;
+    background-color: #3d939b;
+}
+
+.menuTexto{
+    color: white;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    margin-left: 5px;
+}
+
+.menuLogo{
+    margin-top: 2px;
+    width: 40px;
+    margin-left: 90px;
+    border-radius: 30px;
+}
+
+.containerTitle{
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+    text-align: center
+    ;
+}
+
+.card{
+    border: 1px solid black;
+    background-color: white;
+    width: 300px;
+    height: 150px;
+}
+
+.cardStyle h1{
+    background-color: #3d939b;
+    margin: 0;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+}
+
+.izquierda{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.derecha{
+    margin-left: 30px;
+}
+
+.precio{
+    font-style: bold;
+    font-size: 20px;
+}
+
+.orden{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #3d939b;
+}
+
+.footerTexto{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-style: bold;
+    
+}
+
+.descripcion{
+    text-align: center;
+    font-size: 30px;
+    margin: 0px 10px 0px 10;
+    color: #333333;
+}
+
+.logoDolar{
+    width: 40px;
+    border-radius: 30px;
+    display: block;
+    margin: 0px auto;
+}
