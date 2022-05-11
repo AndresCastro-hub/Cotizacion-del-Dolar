@@ -32,8 +32,6 @@ export const Cotizador = () => {
             <p className='menuTexto'>DÓLAR</p>
         </nav>
 
-      
-
             <h1 className='containerTitle'>COTIZACION DEL DOLAR HOY, PRECIO DEL DOLAR HOY</h1>
 
             <hr/>

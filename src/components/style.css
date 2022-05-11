@@ -103,3 +103,31 @@ body{
     display: block;
     margin: 0px auto;
 }
+
+@media only screen and (max-width: 600px) {
+    .orden{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .containerTitle{
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .descripcion{
+      font-size: 20px;
+    }
+
+    .footer{
+        
+            position: absolute;
+            bottom: -410px;
+            width: 100%;
+            height: 40px;
+            background-color: #3d939b;
+        
+    }
+
+}
